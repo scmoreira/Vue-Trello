@@ -1,6 +1,6 @@
 # vue-trello
 
-> Trello clone
+> More basic version of Trello made with Vue 2, Vuex, Vue-Router and Firebase
 
 ## Build Setup
 
